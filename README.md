@@ -9,20 +9,20 @@ git clone https://github.com/unsw-cse-comp3900-9900-23T2/capstone-project-3900h1
 cd capstone-project-3900h18anofail
 ```
 
-### Frontend
+### How to run frontend
 
 ```
-cd frontend
+cd frontend/
+npm install
+npm run serve
 ```
 
-### Backend
+### How to run Backend
+```
+cd backend/
+python server.py
 
 ```
-cd backend
-```
 
-### create a frontend branch
-how to run:
-```
-
-```
+### How to deploy database
+run backend/schema.sql in PostgreSQL 13
