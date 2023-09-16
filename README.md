@@ -6,7 +6,7 @@ Task master is a Task Management Web App that is designed for teams to manage ta
 
 ```
 git clone https://github.com/unsw-cse-comp3900-9900-23T2/capstone-project-3900h18anofail.git
-cd capstone-project-3900h18anofail
+cd task-master
 ```
 
 ### How to run frontend
@@ -21,7 +21,6 @@ npm run serve
 ```
 cd backend/
 python server.py
-
 ```
 
 ### How to deploy database
