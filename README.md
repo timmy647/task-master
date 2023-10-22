@@ -1,6 +1,6 @@
 # Task Master
 
-![Task Master](/task-master.png?raw=true "Screenshot")
+![Task Master](/task_master.png?raw=true "Screenshot")
 
 ## Overview
 
